@@ -2,6 +2,7 @@
 #include <math.h>
 #include <cmath>
 #include <numeric>
+#include <algorithm>
 
 using namespace std;
 namespace Statistics {

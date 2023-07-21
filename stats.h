@@ -3,6 +3,7 @@
 #include <cmath>
 #include <numeric>
 
+using namespace std;
 namespace Statistics {
     // define the Stats structure here. See the tests to infer its properties
     
